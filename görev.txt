@@ -1,0 +1,27 @@
+Proje: Film Kütüphanesi Yönetim Sistemi
+
+Bu proje, öğrencilerin nesne yönelimli programlama (class ve object kullanımı), dosya işlemleri, modüller ve koşullu ifadeler konularında becerilerini geliştirmelerine yardımcı olabilir. Proje, bir film kütüphanesi yönetim sistemi oluşturmayı amaçlamaktadır.
+
+Film Sınıfı Oluşturma:
+
+Film adında bir sınıf oluşturun.
+Film sınıfı, film adı, yönetmen, yayın yılı, izlenme durumu gibi özelliklere sahip olmalıdır.
+İzlenme durumu, film izlendiyse True, izlenmediyse False olarak başlayabilir.
+Film Kütüphanesi Yönetimi:
+
+Kullanıcıya, yeni film eklemek, bir filmi izlendi olarak işaretlemek, tüm filmleri listelemek gibi seçenekler sunan bir yönetim arayüzü oluşturun.
+Dosya İşlemleri:
+
+Film bilgilerini bir dosyaya kaydedin ve program başladığında bu dosyadan bilgileri okuyarak programın devamlılığını sağlayın.
+Dosya işlemleri için ayrı bir modül oluşturun.
+İleri Seviye Özellikler:
+
+Film kütüphanesindeki filmleri yönetmek için arama ve sıralama özellikleri ekleyin.
+Film bilgilerini düzenleme ve silme seçenekleri ekleyin.
+Film izleme istatistikleri tutun (kaç film izlendi, kaç film izlenmedi vb.).
+Kullanıcıya istatistikleri görüntüleme seçeneği sunun.
+Bonus Özellikler:
+
+Kullanıcıya film önerisi yapabilen bir sistem ekleyin. (Örneğin, izlenmemiş filmler arasından rastgele bir film önerisi)
+Film bilgilerini API üzerinden çekebilme özelliği ekleyin.
+Bu proje, öğrencilerin daha önce öğrendikleri konuları birleştirmelerini ve gerçek bir uygulama geliştirmelerini sağlar. Ayrıca, projeyi geliştirirken kodlarını sınıflandırmayı, modüler bir yaklaşım benimsemeyi ve kodlarını düzenli ve okunabilir hale getirmeyi öğrenmelerini sağlayabilir.

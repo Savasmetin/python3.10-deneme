@@ -1,0 +1,26 @@
+Proje: Öğrenci Yönetim Sistemi
+
+Bu proje, öğrencilerin nesne yönelimli programlama, dosya işlemleri ve koşullu ifadeler konularında yeteneklerini geliştirmelerine yardımcı olabilir.
+
+Öğrenci Sınıfı Oluşturma:
+
+Ogrenci adında bir sınıf oluşturun.
+Öğrenci sınıfı, öğrencinin adı, soyadı, öğrenci numarası, notları gibi özelliklere sahip olmalıdır.
+Öğrenci Yönetim Sistemi:
+
+Kullanıcıya, yeni öğrenci eklemek, öğrenci bilgilerini düzenlemek, öğrenci notlarını görüntülemek gibi seçenekler sunan bir öğrenci yönetim sistemi oluşturun.
+Her öğrenci için birden fazla ders notu girilebilmelidir.
+Dosya İşlemleri:
+
+Öğrenci bilgilerini bir dosyaya kaydedin ve program başladığında bu dosyadan bilgileri okuyarak programın devamlılığını sağlayın.
+Dosya işlemleri için ayrı bir modül oluşturun.
+İleri Seviye Özellikler:
+
+Öğrenci notlarını çeşitli kriterlere göre sıralama özelliği ekleyin (örneğin, not ortalamasına göre).
+Belirli bir dersin en yüksek ve en düşük notunu görüntüleme seçeneği ekleyin.
+Kullanıcıya öğrenci notları üzerinde istatistikler görüntüleme seçeneği sunun.
+Bonus Özellikler:
+
+Kullanıcıya not girişi yaparken notların ortalamasını hesaplayan bir sistem ekleyin.
+Öğrencilere not bildirimleri gönderen bir sistem ekleyin.
+Bu proje, öğrencilerin daha önce öğrendikleri konuları birleştirmelerini sağlar ve onlara gerçek bir uygulama geliştirme deneyimi kazandırabilir. Ayrıca, projeyi geliştirirken kodlarını sınıflandırmayı, modüler bir yaklaşım benimsemeyi ve kodlarını düzenli ve okunabilir hale getirmeyi öğrenmelerini sağlayabilir.
